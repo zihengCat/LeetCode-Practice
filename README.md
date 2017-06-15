@@ -5,6 +5,7 @@
 - 001 helloworld
 - 002 helloworld (interspersed files)
 - 003 sum of 2 numbers
+- 004 compare 2 numbers
 
 
 # Usage
